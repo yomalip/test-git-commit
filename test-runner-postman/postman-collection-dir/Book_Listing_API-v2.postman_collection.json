@@ -1,13 +1,13 @@
 {
   "info": {
     "_postman_id": "63d39160-27c8-4c8f-8e4d-a4adb912a5e2",
-    "name": "Book Listing API v2",
+    "name": "Book Listing API v2 with tags",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
     "_exporter_id": "11138974"
   },
   "item": [
     {
-      "name": "List Books",
+      "name": "List Books with tags",
       "event": [
         {
           "listen": "test",
