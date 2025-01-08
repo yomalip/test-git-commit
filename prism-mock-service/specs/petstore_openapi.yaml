@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Pet API
+  title: Pet API with tags
   description: A simple API to get a random list of pets.
   version: 1.0.0
 
